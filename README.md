@@ -2,9 +2,11 @@
 
 *Apenas por diversão ⚠*
 
-**Geralmente uso:**
+Geralmente uso:
  
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+
+![Descrição](https://preview.redd.it/who-created-the-legendary-steve-sitting-wallpaper-v0-d2dddl9xidl91.jpg?width=640&crop=smart&auto=webp&s=cefd3b3be19f696cd6f3399ef87f93a3fab7dc8b)
 <!--
 **MOCHILAMV/MOCHILAMV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

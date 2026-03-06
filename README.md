@@ -1,5 +1,5 @@
-Não sou dev.
-
+Não sou dev. Upo uns projetos por diversão.
+### Geralmente uso:
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 
 <!--

@@ -1,8 +1,6 @@
 ### Não sou dev. 
 
 *Apenas por diversão ⚠*
-
-Geralmente uso:
  
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 

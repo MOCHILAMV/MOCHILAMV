@@ -1,5 +1,3 @@
-### Não sou dev. 
-
 *Apenas por diversão ⚠*
  
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
